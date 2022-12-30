@@ -1,5 +1,3 @@
-<a href="http://manuelennesto.github.io" target="_blank"><img src="https://user-images.githubusercontent.com/53962116/210108393-352bfeb6-d9cc-427b-82b2-e2d53bb4751e.png" /></a>
-
 <table><tr><td valign="top" width="75%">
 
 ## 👋 Hi there, I'm Manuel
