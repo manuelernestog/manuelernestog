@@ -25,7 +25,7 @@
   <a href="http://twitter.com/manuelernestog">
     <img src="https://img.shields.io/twitter/follow/manuelernestog?label=Twitter&logo=twitter&style=for-the-badge&color=1DA1F2" alt="Manuel Ernesto's Twitter"/>
   </a>
-  <a ref="https://t.me/manuelernestog">
+  <a href="https://t.me/manuelernestog">
     <img src="https://img.shields.io/badge/Telegram-CHANNEL-blue?label=Telegram&logo=Telegram&style=for-the-badge" />
   </a>
     <a href="https://www.linkedin.com/in/manuelernestogr">
