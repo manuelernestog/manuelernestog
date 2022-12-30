@@ -2,7 +2,7 @@
 
 ## 👋 Hi there, I'm Manuel
 
-- 👨‍💻 I am a Indie Software Engineer.
+- 👨‍💻 I am a Software Engineer.
 - 🚀 I work creating software that solve problems in a simple way and sharing what I learn along the way. I like minimalism, Open-Source and personal development. 
 - 🌍 I'm based in Havana 🇨🇺
 - ⭐️ You can see all my work on my [personal website](https://manuelernestog.github.io) 
