@@ -1,46 +1,53 @@
-Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Manuel Ernesto
-==============================================================================================================================
+<a href="http://manuelennesto.github.io" target="_blank"><img src="https://user-images.githubusercontent.com/53962116/210108393-352bfeb6-d9cc-427b-82b2-e2d53bb4751e.png" /></a>
 
-I'm a Software Engineer
+<table><tr><td valign="top" width="75%">
 
-* 🌍  I'm based in 🇨🇺
-* ✉️  You can contact me at [contact.manuelernestog@gmail.com](mailto:contact.manuelernestog@gmail.com)
-* 🚀  I'm currently working on [WeekToDo](http://weektodo.me)
+## 👋 Hi there, I'm Manuel
 
-<a href="https://www.twitter.com/manuelernestog" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/manuelernestog?logo=twitter&style=for-the-badge&color=0891b2&labelColor=ffffff"
-/></a>
+- 👨‍💻 I am a Indie Software Engineer.
+- 🚀 I work creating software that solve problems in a simple way and sharing what I learn along the way. I like minimalism, Open-Source and personal development. 
+- 🌍 I'm based in Havana 🇨🇺
+- ⭐️ You can see all my work on my [personal website](https://manuelernestog.github.io) 
+- ✉️ Contact me at contact.manuelernestog@gmail.com 
+  
+</td><td valign="top" width="25%">
 
-### Skills
+## 💻️ Fav Tech Stack
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
-<a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ruby-colored.svg" width="36" height="36" alt="Ruby" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a>
-<a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nuxtjs-colored.svg" width="36" height="36" alt="Nuxtjs" /></a>
-<a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
-<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
+- JavaScript
+- Vue
+- Ruby on Rails 
+- Node.js
+- Tailwind
+- Astro
+ 
+</tr></tr></table> 
+
+<p align="center">
+  <a href="http://twitter.com/manuelernestog">
+    <img src="https://img.shields.io/twitter/follow/manuelernestog?label=Twitter&logo=twitter&style=for-the-badge&color=1DA1F2" alt="Manuel Ernesto's Twitter"/>
+  </a>
+  <a ref="https://t.me/manuelernestog">
+    <img src="https://img.shields.io/badge/Telegram-CHANNEL-blue?label=Telegram&logo=Telegram&style=for-the-badge" />
+  </a>
+    <a href="https://www.linkedin.com/in/manuelernestogr">
+    <img src="https://img.shields.io/badge/LinkedIn-450-blue?label=LinkedIn&logo=LinkedIn&style=for-the-badge" />
+  </a>
+    <a href="https://manuelernestog.github.io/blog/1/">
+    <img src="https://img.shields.io/badge/Personal-Blog-orange?label=My&logo=mail&style=for-the-badge" alt="Blog link" />
+  </a>
 </p>
 
-
-### Socials
-
-<p align="left"> <a href="https://www.github.com/manuelernestog" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://manuelernestog.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/manuelernestogr" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/manuelernestog" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
+<table><tr><td valign="top" width="50%">
 
 <a href="http://www.github.com/manuelernestog"><img src="https://github-readme-stats.vercel.app/api?username=manuelernestog&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=64748b&icon_color=0891b2&bg_color=ffffff&hide_border=true&show_icons=true" alt="manuelernestog's GitHub stats" /></a>
+ 
+</td><td valign="top" width="50%">
+
 
 <a href="http://www.github.com/manuelernestog"><img src="https://github-readme-streak-stats.herokuapp.com/?user=manuelernestog&stroke=64748b&background=ffffff&ring=0891b2&fire=0891b2&currStreakNum=64748b&currStreakLabel=0891b2&sideNums=64748b&sideLabels=64748b&dates=64748b&hide_border=true" /></a>
+ 
+</tr></tr></table> 
+
+
+
