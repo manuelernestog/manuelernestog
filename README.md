@@ -1,6 +1,3 @@
-
-
-
 ## 👋 Hi there, I'm Manuel
 
 - 👨‍💻 I am a Software Engineer.
