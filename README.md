@@ -10,12 +10,11 @@
 
 ## 💻️ Fav Tech Stack
 
-- JavaScript
-- Vue
-- Ruby on Rails 
-- Node.js
-- Tailwind
+- Svelte
 - Astro
+- Tailwind
+- Electron
+- Ruby on Rails
 
 
 <p align="center">
